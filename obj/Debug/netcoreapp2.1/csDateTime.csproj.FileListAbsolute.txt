@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/bin/Debug/netcoreapp2.1/csDateTime.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/bin/Debug/netcoreapp2.1/csDateTime.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/bin/Debug/netcoreapp2.1/csDateTime.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/bin/Debug/netcoreapp2.1/csDateTime.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/bin/Debug/netcoreapp2.1/csDateTime.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csDateTime/obj/Debug/netcoreapp2.1/csDateTime.pdb
